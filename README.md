@@ -1,5 +1,5 @@
 # Resumeum
-Resumeum Is My Interactive Version Of A Portfolio / Resume
+Resumeum Is My Version Of A Interactive Portfolio / Resume
 
 CHOOSE A PATH:
 
